@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "bf73288d-f0b0-4f31-9213-c98d3061b6ab",
+    "Name": "UsrRealtyClassicInTag",
+    "ModifiedOnUtc": "\/Date(1730111343000)\/",
+    "Parent": {
+      "UId": "5894a2b0-51d5-419a-82bb-238674634270",
+      "Name": "BaseEntityInTag"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Тег в записи раздела Недвижимость (ClassicUI)",
+    "DependsOn": []
+  }
+}

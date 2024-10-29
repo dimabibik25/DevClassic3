@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Страница редактирования: &quot;Недвижимость (ClassicUI)&quot;" />
+			<Item Name="LocalizableStrings.STRING5a400ca75a4c496cbb62a962a0fa2644Tip.Value" Value="Пример подсказки" />
+			<Item Name="LocalizableStrings.ValueMustBeGreaterThanZero.Value" Value="Цена не может ровняться нулю" />
+		</Items>
+	</Group>
+</Resources>

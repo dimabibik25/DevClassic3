@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "ca8a400e-2949-492e-8d68-2e52981c7eb2",
+    "Name": "UsrRealtyVisitFreedomUIRelatedPage",
+    "ModifiedOnUtc": "\/Date(1729886833000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "Просмотр недвижки (FreedomUI) (Настройка страницы)",
+    "DependsOn": []
+  }
+}
