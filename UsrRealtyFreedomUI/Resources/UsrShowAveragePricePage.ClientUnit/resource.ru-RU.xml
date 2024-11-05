@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Страница показа результата расчетов средней цены" />
+			<Item Name="Parameters.0ce763f0-cbcf-bbce-b3a6-1bb690d196eb.Caption" Value="Средняя цена, USD/м2" />
+			<Item Name="Parameters.4865442a-6bc4-a063-afd6-814f33114d32.Caption" Value="SQL текст запроса" />
+		</Items>
+	</Group>
+</Resources>

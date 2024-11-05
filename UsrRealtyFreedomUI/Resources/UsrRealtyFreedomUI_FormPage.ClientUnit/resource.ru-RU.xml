@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Страница записи Недвижимость (FreedomUI)" />
+			<Item Name="LocalizableStrings.addRecord_2z2wgpp_caption.Value" Value="Добавить" />
+			<Item Name="LocalizableStrings.addRecord_5rvw10b_caption.Value" Value="Добавить" />
+			<Item Name="LocalizableStrings.addRecord_dep7dq6_caption.Value" Value="Добавить" />
+			<Item Name="LocalizableStrings.addRecord_k40dgf0_caption.Value" Value="Добавить" />
+			<Item Name="LocalizableStrings.addRecord_y6oomxj_caption.Value" Value="Добавить" />
+			<Item Name="LocalizableStrings.Button_ad5do7t_caption.Value" Value="ПЫЩЬ!" />
+			<Item Name="LocalizableStrings.Button_cl856j6_caption.Value" Value="Запуск..." />
+			<Item Name="LocalizableStrings.Button_Push_caption.Value" Value="ПЫЩЬ!" />
+			<Item Name="LocalizableStrings.ExpansionPanel_c6dnszc_title.Value" Value="Просмотр недвижки (FreedomUI)" />
+			<Item Name="LocalizableStrings.GridDetailAddBtn_vtgdx41_caption.Value" Value="Добавить" />
+			<Item Name="LocalizableStrings.GridDetailExportDataBtn_z0zslr2_caption.Value" Value="Экспорт в Excel" />
+			<Item Name="LocalizableStrings.GridDetailImportDataBtn_fsioihf_caption.Value" Value="Импорт данных" />
+			<Item Name="LocalizableStrings.GridDetailRefreshBtn_ii642ho_caption.Value" Value="Обновить" />
+			<Item Name="LocalizableStrings.GridDetailSearchFilter_43za52s_placeholder.Value" Value="Поиск" />
+			<Item Name="LocalizableStrings.GridDetailSettingsBtn_u3vlrt1_caption.Value" Value="Действия" />
+			<Item Name="LocalizableStrings.MenuItem_CalcAveragePrice_caption.Value" Value="Расчет средней цены" />
+			<Item Name="LocalizableStrings.MenuItem_mzz4pqb_caption.Value" Value="Расчет средней цены" />
+			<Item Name="LocalizableStrings.MenuItem_n7chpv6_caption.Value" Value="Запуск сервиса" />
+			<Item Name="LocalizableStrings.MenuItem_tnklwpp_caption.Value" Value="Пункт меню" />
+			<Item Name="LocalizableStrings.NumberInput_9navqd8_label.Value" Value="Число" />
+			<Item Name="LocalizableStrings.UsrType_placeholder.Value" Value="Укажите тип недвижимости" />
+			<Item Name="LocalizableStrings.UsrType_tooltip.Value" Value="Укажите тип недвижимости" />
+		</Items>
+	</Group>
+</Resources>

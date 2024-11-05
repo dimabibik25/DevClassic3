@@ -1,0 +1,9 @@
+﻿{
+  "Descriptor": {
+    "UId": "b65ed7ea-9142-456f-a714-f5c7b691b8a6",
+    "Name": "UsrCalculateAveragePriceProcess",
+    "ModifiedOnUtc": "\/Date(1730294218000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Рассчёт средней цены недвижимости (FreedomUI)"
+  }
+}
